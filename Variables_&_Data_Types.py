@@ -1,13 +1,3 @@
-# Setup & Hello World
-print("Hello World")
-
-
-# Drawing a Shape
-print("   /|")
-print("  / |")
-print(" /  |")
-print("/___|")
-
 # Variables & Data Types
 character_name = "Tom"
 character_age = 50.5678213
